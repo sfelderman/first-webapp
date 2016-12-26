@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "My Application",
+  "launch_path": "/index.html",
+  "description": "A first attempt at building a website.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Sean",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "My Application",
+      "description": "A first attempt at building a website."
+    }
+  }
+}
